@@ -4,10 +4,28 @@
 
 
 .espace {
-margin-top: 250px;
+  margin-top: 250px;
 }
 
 .img {
   width: 250px;
 
+}
+
+.logon-bord {
+  width: 60%;
+  height: 50px;
+  margin: 3px;
+}
+
+.formulary {
+  width: 35em;
+  border: 1px solid gray;
+  border-radius: 6px;
+  padding: 15px;
+}
+
+.btn-confg {
+  height: 50px;
+  background-color: #328820;
 }
