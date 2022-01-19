@@ -3,7 +3,10 @@
 }
 
 
-.espace {
+body h3 {
+  margin-top: 1em; 
+}
+.space {
   margin-top: 250px;
 }
 
@@ -34,4 +37,8 @@
   color: rgb(190, 190, 190);
   font-size: larger;
   font-weight: 700;
+}
+
+.linkconfig {
+  text-decoration: none;
 }
